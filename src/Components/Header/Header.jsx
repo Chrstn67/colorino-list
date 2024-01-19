@@ -7,7 +7,7 @@ const Header = () => {
       <h1>COLORINO</h1>
       <p>
         Pour des raisons de simplicité et de performances, cette page n'est pas
-        conçu pour être lue sur un petit écran.
+        conçue pour être lue sur un petit écran.
       </p>
     </header>
   );
